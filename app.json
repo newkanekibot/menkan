@@ -1,5 +1,5 @@
 {
-  "name": "Menfess bot fwb",
+  "name": "Menfess bot",
   "description": "mengirim pesan ke channel telegram secara anonymous",
   "keywords": [
     "telegram",
@@ -131,10 +131,6 @@
       "url": "heroku/python"
     }
   ],
-  "formation": {
-    "worker": {
-      "quantity": 0,
-      "size": "eco"
     }
   }
-}
+
